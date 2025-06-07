@@ -1,0 +1,1 @@
+# shell_script_for_image
